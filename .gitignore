@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.~lock.*#
+*.tmp
+# Full Netflix Prize ratings file (too large for GitHub — download from Kaggle)
+data/combined_data_1.txt
